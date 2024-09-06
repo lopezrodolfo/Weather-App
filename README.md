@@ -2,6 +2,14 @@
 
 A simple Python application that fetches and displays current weather information for a given city.
 
+## Author
+
+Rodolfo Lopez
+
+## Date
+
+Summer 2024
+
 ## Features
 
 - Retrieves real-time weather data from OpenWeatherMap API
